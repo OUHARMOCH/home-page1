@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities; 
+
+
+
+
+
+.gradientBg{
+    background: linear-gradient(99deg , #EE9AE5 0%, #5961F9 100%);
+}
+.Btnprimary{
+                
+}
